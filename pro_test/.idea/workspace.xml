@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="28e07598-6dc9-4f0b-ab46-74dd511399c8" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pro_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_test/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_test/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,6 +76,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -150,7 +149,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611117834873</updated>
-      <workItem from="1611117837697" duration="7258000" />
+      <workItem from="1611117837697" duration="7890000" />
+      <workItem from="1611132350277" duration="837000" />
     </task>
     <servers />
   </component>
@@ -174,22 +174,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611117893723" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1611121951488">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1611132334099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611121951488" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1611121951488">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611132334099" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1611132334099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611121951488" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1611121951488">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611132334099" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1611132334099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611121951488" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1611121951488">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611132334099" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1611132334099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611121951488" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611132334099" />
     <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1611119282259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
