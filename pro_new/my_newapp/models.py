@@ -26,4 +26,23 @@ class Bookinfo(models.Model):
 
     class Meta:
         db_table = 'bookinfo'
-        verbose_name = '书籍管理'
+        # verbose_name = '书籍管理'
+
+
+class Peopleinfo(models.Model):
+    # ordered dict
+    GENDER_CHOICE = (
+        (0, 'female'),
+        (1, 'male')
+    )
+    name = models.CharField(max_length=20, unique=True)
+    gender = models.SmallIntegerField(choices=GENDER_CHOICE, default=0)
+    description = models.CharField(max_length=100)
+    is_delete = models.BooleanField()
+    book = models.ForeignKey(Bookinfo, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        db_table = 'peopleinfo'
