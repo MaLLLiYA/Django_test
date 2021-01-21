@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e07598-6dc9-4f0b-ab46-74dd511399c8" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../pro_new/my_newapp/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_test/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +150,7 @@
       <updated>1611117834873</updated>
       <workItem from="1611117837697" duration="7890000" />
       <workItem from="1611132350277" duration="6275000" />
+      <workItem from="1611217529904" duration="22000" />
     </task>
     <servers />
   </component>
